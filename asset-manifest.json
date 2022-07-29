@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/budget-forecast/static/css/main.2ad60546.css",
+    "main.js": "/budget-forecast/static/js/main.0cccb21b.js",
+    "index.html": "/budget-forecast/index.html",
+    "static/media/getFetch.cjs": "/budget-forecast/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.2ad60546.css.map": "/budget-forecast/static/css/main.2ad60546.css.map",
+    "main.0cccb21b.js.map": "/budget-forecast/static/js/main.0cccb21b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad60546.css",
+    "static/js/main.0cccb21b.js"
+  ]
+}
